@@ -1,0 +1,15 @@
+https://dfilitto.com.br/desenvolvimento/node-js/npm-conhecendo-os-principais-comandos/
+https://dfilitto.com.br/desenvolvimento/como-publicar-pacotes-na-plataforma-npm/
+Login: marcelo.jung
+Senha: mesma do git
+
+npm login
+npm list
+npm update <nome package>
+npm publish 
+npm unpublish --force
+tsc --init
+
+A pasta dist é gerada.
+https://docs.npmjs.com/misc/scope
+https://docs.npmjs.com/files/package.json#name
