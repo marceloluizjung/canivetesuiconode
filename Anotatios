@@ -10,6 +10,6 @@ npm publish
 npm unpublish --force
 tsc --init
 
-A pasta dist é gerada.
+A pasta dist é gerada.Caso dê merda para publicar muda o nome do package.
 https://docs.npmjs.com/misc/scope
 https://docs.npmjs.com/files/package.json#name
